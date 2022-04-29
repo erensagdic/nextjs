@@ -1,0 +1,1 @@
+export const SECRET_TOKEN = "dajgalj1LJFSAasfasflgljg3JGLJ3glGljgLJGLJGljGlG3lgl3G"
